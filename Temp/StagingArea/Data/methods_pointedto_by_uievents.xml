@@ -1,0 +1,10 @@
+<linker>
+	<assembly fullname="Assembly-CSharp">
+		<type fullname="Main">
+			<method name="OnOpenAppStore"/>
+		</type>
+		<type fullname="InitShare">
+			<method name="ShareWithNative"/>
+		</type>
+	</assembly>
+</linker>
